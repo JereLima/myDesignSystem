@@ -1,0 +1,388 @@
+[
+  {
+      "id": "adaeda42-82e6-43fd-93bc-1d6d57826de6",
+      "name": "Diversos",
+      "services": [
+          {
+              "id": "3cdc7e0e-e933-4b03-ac74-00581250618a",
+              "name": "Substituição amortecedor capô"
+          },
+          {
+              "id": "f427da2a-53bd-498c-bc8d-78bd9bb461d7",
+              "name": "Revisão de segurança"
+          },
+          {
+              "id": "f4f205b2-1936-4f52-9934-f3da76f1723b",
+              "name": "Substituição amortecedor porta-malas"
+          }
+      ]
+  },
+  {
+      "id": "b2eb634a-085c-4b0d-a0c9-1f4675842f79",
+      "name": "Elétrico",
+      "services": [
+          {
+              "id": "028ff31b-c56e-483b-b7d5-222922ac0ad0",
+              "name": "Substituição velas ignição"
+          },
+          {
+              "id": "dda76285-83aa-458d-840d-daa8d33132b2",
+              "name": "Substituição cabos de velas"
+          }
+      ]
+  },
+  {
+      "id": "8f5f8c2b-38df-45ff-aeeb-226971d1c466",
+      "name": "Arrefecimento",
+      "services": [
+          {
+              "id": "da45d035-5ced-44be-8a84-8e05b156e798",
+              "name": "Substituição fluido arrefecimento"
+          }
+      ]
+  },
+  {
+      "id": "fae65a01-8733-4008-b565-2b66ce2eaa87",
+      "name": "Elétrico - Recarga",
+      "services": [
+          {
+              "id": "ea4bd628-4f84-4bc9-83ca-54cabfd48111",
+              "name": "Substituição bateria"
+          }
+      ]
+  },
+  {
+      "id": "e7df4462-5b74-4fad-9113-6c6c3c6df5b4",
+      "name": "Lubrificação",
+      "services": [
+          {
+              "id": "3334575c-c39f-4277-a9f6-02292c167f01",
+              "name": "Substituição óleo motor"
+          },
+          {
+              "id": "02d9a955-5447-4e63-bc4e-88c530d42ffb",
+              "name": "Troca óleo (câmbio manual)"
+          },
+          {
+              "id": "2064d83a-11a2-4ce0-8b91-8b95921220e5",
+              "name": "Troca óleo (câmbio automático)"
+          },
+          {
+              "id": "5975bfe2-4dbd-4b5c-bc02-edd06848fa1d",
+              "name": "Substituição filtro óleo motor"
+          }
+      ]
+  },
+  {
+      "id": "3a0361c5-cd05-4c29-bff3-7ffd2f056541",
+      "name": "Rodagem",
+      "services": [
+          {
+              "id": "7d028233-4cd2-4704-a77b-06ed19bd3031",
+              "name": "Alinhamento farol"
+          },
+          {
+              "id": "af7fb657-914b-46aa-86fd-62e1f866b5a8",
+              "name": "Balanceamento roda"
+          },
+          {
+              "id": "76aafd04-74f2-47db-8fb1-955accfe2dfb",
+              "name": "Alinhamento total"
+          },
+          {
+              "id": "be285559-ae19-4bb0-a96b-b8438fa412aa",
+              "name": "Montagem pneu"
+          },
+          {
+              "id": "e49034a6-c9ce-45de-a8e6-e9420b08c70e",
+              "name": "Rodizio pneu"
+          },
+          {
+              "id": "7857edc6-2a27-49dc-99bd-f057b6c88893",
+              "name": "Substituição cubo roda"
+          },
+          {
+              "id": "0cd091b7-d45c-4900-8909-f3ab75c708d7",
+              "name": "Conserto pneu"
+          }
+      ]
+  },
+  {
+      "id": "28adcf83-067f-4658-9d41-844596089754",
+      "name": "Transmissão",
+      "services": [
+          {
+              "id": "faba2928-0b64-4387-826a-425cfde7ae32",
+              "name": "Substituição embreagem"
+          },
+          {
+              "id": "e8018926-07c5-47c2-b2f6-8ab9b4dce2ac",
+              "name": "Substituição coxim câmbio"
+          }
+      ]
+  },
+  {
+      "id": "4106cb71-01aa-45bb-ae36-8798f6bf4048",
+      "name": "Direção",
+      "services": [
+          {
+              "id": "898eed74-99c4-4542-b111-077010de53aa",
+              "name": "Substituição terminal direção"
+          },
+          {
+              "id": "60126a92-70cf-4b60-997f-0da25a9c003e",
+              "name": "Substituição pivô"
+          },
+          {
+              "id": "47c3dd6a-9279-4b91-b610-1f3e45b23e16",
+              "name": "Substituição barra axial"
+          },
+          {
+              "id": "bd85e340-8f83-417c-9d23-2499e5228185",
+              "name": "Substituição caixa direção"
+          },
+          {
+              "id": "06cdc280-9718-441d-a56d-2608a8340172",
+              "name": "Subistuição ponta de eixo"
+          },
+          {
+              "id": "15f2f962-a1d1-4644-bdc7-5a30ab8978f3",
+              "name": "Substituição braço pitman"
+          },
+          {
+              "id": "78ec4910-f08e-4967-83d3-64f466bb3f64",
+              "name": "Embuchamento"
+          },
+          {
+              "id": "02b7f3c7-89d1-4a51-a454-8b4ea163e638",
+              "name": "Substituição buchas"
+          },
+          {
+              "id": "6b9f132d-6106-4d1c-a1d3-9e6cc6c8fbb3",
+              "name": "Substituição bieleta"
+          },
+          {
+              "id": "bbc45749-bb56-44e8-a06f-c3e0984dc5a4",
+              "name": "Subistuição manga eixo "
+          },
+          {
+              "id": "57cadf22-ea69-41c6-b15e-d9a50d0b1202",
+              "name": "Substituição barra de direção"
+          },
+          {
+              "id": "b817775f-f8d4-43a4-b55e-f88fa1513dc4",
+              "name": "Substituição coluna direção"
+          }
+      ]
+  },
+  {
+      "id": "300463e2-2a51-479d-acb6-bccf43b52530",
+      "name": "Alimentação",
+      "services": [
+          {
+              "id": "797650da-27c7-4aa9-9c2b-0ed32564cde6",
+              "name": "Higienização sistema ventilação"
+          },
+          {
+              "id": "e55c3857-0427-4abf-95f9-12ac2dca4146",
+              "name": "Higienização total"
+          },
+          {
+              "id": "4c0aefba-8d5a-4dd8-938a-325a75ca06c6",
+              "name": "Substituição filtro cabine"
+          },
+          {
+              "id": "c8a15fb5-afd9-428f-b334-58235002fb5c",
+              "name": "Higienização ar condicionado"
+          },
+          {
+              "id": "dba62669-213a-4a6e-b0f7-648c24b22d48",
+              "name": "Substituição filtro ar condicionado"
+          },
+          {
+              "id": "4b9c348d-cc38-4885-86b0-7298bce1e450",
+              "name": "Substituição filtro de ar motor"
+          },
+          {
+              "id": "242025be-8535-4a52-b16b-996be8f1c005",
+              "name": "Limpeza sistema injeção"
+          },
+          {
+              "id": "fef0ec23-9422-4f11-b843-a0072dbcadf5",
+              "name": "Reciclagem gás ar condicionado"
+          },
+          {
+              "id": "804629c9-5c6d-41e5-aac3-b562cdd7e255",
+              "name": "Substituição filtro combustível"
+          },
+          {
+              "id": "0a892636-b102-4483-af22-f8529981819a",
+              "name": "Desinfecção cabine"
+          }
+      ]
+  },
+  {
+      "id": "ae594283-a3e1-4a29-848f-c66a83e9bd53",
+      "name": "Aspecto Visual",
+      "services": [
+          {
+              "id": "d91d24f4-cb00-460f-9336-003364234b7f",
+              "name": "Revitalização vidros"
+          },
+          {
+              "id": "30f30167-dd48-4201-9e7e-46cd0b2b6e52",
+              "name": "Revitalização farol"
+          },
+          {
+              "id": "19dde109-40dc-4d73-9bf0-896445e93617",
+              "name": "Cristalização vidros"
+          }
+      ]
+  },
+  {
+      "id": "386bf96f-6d00-49df-a799-da67c968e449",
+      "name": "Freios",
+      "services": [
+          {
+              "id": "f8afdb12-f930-457f-9ef2-2d08c430b5fb",
+              "name": "Substituição pinça freio"
+          },
+          {
+              "id": "581f3737-70fa-4de8-af5d-3b45f56d3af9",
+              "name": "Substituição disco freio"
+          },
+          {
+              "id": "3a6386f3-3d84-44bd-a637-43eb6e6669ef",
+              "name": "Substituição cilindro mestre"
+          },
+          {
+              "id": "bc417c27-d835-45eb-b670-5528c5945fab",
+              "name": "Retífica tambor freio"
+          },
+          {
+              "id": "1f0b80a4-ca2e-44d5-8cb0-60729fa6ba35",
+              "name": "Substituição retentor freio"
+          },
+          {
+              "id": "d620614e-9536-49e3-933a-647c69beac2d",
+              "name": "Substituição cabo freio"
+          },
+          {
+              "id": "514c38cd-5658-4df9-a948-7db71efb20ab",
+              "name": "Substituição válvula equilizadora"
+          },
+          {
+              "id": "ec20323c-4ba4-4d85-bfca-7fa37dfa79cf",
+              "name": "Substituição cilindro roda"
+          },
+          {
+              "id": "832e2d76-6c39-43f8-8188-8be9700a7eaa",
+              "name": "Substituição lona freio"
+          },
+          {
+              "id": "ed9c44a4-bc1b-40fc-9d2f-96decc33fe36",
+              "name": "Substituição tambor freio"
+          },
+          {
+              "id": "9ea69e51-f123-4922-bf77-9ea571aba361",
+              "name": "Substituição fluido freio"
+          },
+          {
+              "id": "bdb0804f-62d3-4cfb-b408-a0eedd0da267",
+              "name": "Substituição pastilha freio"
+          },
+          {
+              "id": "2f617e81-f02d-4fad-b10c-c288afe6cb0c",
+              "name": "Substituição sapata freio"
+          },
+          {
+              "id": "d2d93409-b6cf-48bd-b852-d68cf836c6be",
+              "name": "Reparo tapa pó freio"
+          },
+          {
+              "id": "3ca304ee-0a2e-4b7b-94ca-e1da60acea23",
+              "name": "Retífica disco freio"
+          },
+          {
+              "id": "261d20c0-91cd-4ac1-9d41-ea7f44a319e1",
+              "name": "Substituição servo freio"
+          },
+          {
+              "id": "56279a00-4035-402d-9188-f05b754defa5",
+              "name": "Substituição cavalete pinça freio"
+          }
+      ]
+  },
+  {
+      "id": "9fe9a8e9-6213-4805-9515-f7e22ff1495f",
+      "name": "Motor",
+      "services": [
+          {
+              "id": "061e6e53-8fac-46a1-99e2-22c0957b7b20",
+              "name": "Diagnóstico eletrônico scanner"
+          },
+          {
+              "id": "dd418f67-35c2-4124-9407-57ba89553141",
+              "name": "Substituição correia dentada"
+          },
+          {
+              "id": "beed90a8-6c44-46e9-9b0b-76f324c39070",
+              "name": "Substituição correia acessórios"
+          },
+          {
+              "id": "70b01cf4-664d-4b12-b3ef-ba289ee40198",
+              "name": "Substituição coxim motor"
+          },
+          {
+              "id": "757c6e5b-9615-4d33-a43d-e6da3ef4f129",
+              "name": "Retífica volante motor"
+          }
+      ]
+  },
+  {
+      "id": "946a9dc9-de37-4537-b166-fb97487b6ee6",
+      "name": "Suspensão",
+      "services": [
+          {
+              "id": "f241f9a7-7179-461b-a979-09cceabe5147",
+              "name": "Substituição bucha calço de suporte"
+          },
+          {
+              "id": "a67dc8fa-1289-4631-8c1a-0d6c0b48f0f7",
+              "name": "Substituição molas"
+          },
+          {
+              "id": "d31b4595-0c1e-4b40-b949-256a722bf124",
+              "name": "Substituição kit reparo barra estabilizadora"
+          },
+          {
+              "id": "fb7d3443-915c-42f0-be1a-25db868cc3fe",
+              "name": "Substituição feixe molas"
+          },
+          {
+              "id": "b0bd0e9d-36ad-477d-bd20-5e9ac7268d1f",
+              "name": "Substituição barra estabilizadora"
+          },
+          {
+              "id": "c04ec696-052a-4c1c-ac6b-6354e2c610f1",
+              "name": "Substituição amortecedor suspensão"
+          },
+          {
+              "id": "6d69001f-b28f-4079-816d-70dc7ef7968a",
+              "name": "Substituição coxim amortecedor suspensão"
+          },
+          {
+              "id": "e86abb93-2f19-440b-bae4-7b4ec3bed5fa",
+              "name": "Substituição agregado"
+          },
+          {
+              "id": "5ca64400-cce1-4942-a19a-9018cdd40b8b",
+              "name": "Substituição bandeja suspensão"
+          },
+          {
+              "id": "61a5be85-72be-410e-ae5c-b2e75b7da74f",
+              "name": "Substituição mola"
+          }
+      ]
+  }
+]
